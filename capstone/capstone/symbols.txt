@@ -1,0 +1,9 @@
+Symbol table (user labels and variables)
+Symbol               Address
+LOOP                 0
+PRESSED              8
+DRAW                 10
+color                16
+addr                 17
+count                18
+ROW                  20
